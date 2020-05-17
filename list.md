@@ -4,6 +4,6 @@
 list简单使用：<br>
 		int main(void)
 		{
-			return 0;
+		    return 0;
 		}
 
